@@ -107,6 +107,7 @@ For this report, we need to include data visualisations, key callouts, insights 
 🔸Table of contents / agenda
 🔸Problem statement / purpose
 🔸Overview and context
+
 🔸Content balance
 🔸Layout and content display
 🔸Summary / next steps
