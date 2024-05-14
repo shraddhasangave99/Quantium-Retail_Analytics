@@ -1,8 +1,11 @@
 # Quantium-Retail_Analytics
   As the part of the Quantium Data Analytics Virtual Internship offered by Forage, I have worked on this data analysis project. It contains results of the completed tasks for the [Quantium Virtual Internship](https://www.theforage.com/simulations/quantium/data-analytics-rqkb), designed to replicate life in the Retail Analytics and Strategy team at Quantium, using Python.
 
+[Quantium certificate](https://drive.google.com/file/d/1HSqvOXSfavYnKoHY4yZA9rYeGx5BK4lb/view?usp=drive_link)
+
 ![Image](https://github.com/shraddhasangave99/Quantium-Retail_Analytics/assets/153710836/8ea552bb-3482-44a2-83d7-f1818fb29ff1)
 
+[Quantium certificate](https://drive.google.com/file/d/1HSqvOXSfavYnKoHY4yZA9rYeGx5BK4lb/view?usp=drive_link)
 ## Introduction
   Quantium has maintained a data collaboration with a major retail chain for several years, wherein the retailer furnishes transactional and customer data. As an analyst within Quantium's analytics team, the role involves delivering invaluable data analytics and insights to aid strategic decision-making.
 
